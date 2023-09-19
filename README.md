@@ -1,3 +1,3 @@
 # Face_Mask_Recogonition
 
-Please visit each folder for the instruction of reproducing each experiment.
+Instruction of reproducing each experiment is listed in the README file in each folder.
